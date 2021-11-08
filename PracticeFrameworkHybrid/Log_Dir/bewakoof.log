@@ -1,0 +1,38 @@
+2021-10-28 20:55:38 INFO  Browser driver is initialize
+2021-10-28 20:55:39 INFO  URL is invoked
+2021-10-28 20:55:39 INFO  Banner is displaying
+2021-10-28 20:55:39 INFO  Button is present
+2021-10-28 20:55:40 INFO  Clicked on Shop Men
+2021-10-28 20:55:44 INFO  Driver closed and made null
+2021-10-28 20:55:46 INFO  Browser driver is initialize
+2021-10-28 20:55:47 INFO  URL is invoked
+2021-10-28 20:55:48 INFO  Login Done!
+2021-10-28 20:55:52 INFO  Close driver and made it null
+2021-10-28 20:55:53 INFO  Browser driver is initialize
+2021-10-28 20:55:55 INFO  URL is invoked
+2021-10-28 20:55:56 INFO  Login Done!
+2021-10-28 20:55:56 INFO  Close driver and made it null
+2021-10-29 11:30:09 INFO  Browser driver is initialize
+2021-10-29 11:30:17 INFO  URL is invoked
+2021-10-29 11:30:17 INFO  Banner is displaying
+2021-10-29 11:30:17 INFO  Button is present
+2021-10-29 11:30:17 INFO  Clicked on Shop Men
+2021-10-29 11:30:17 INFO  Driver closed and made null
+2021-10-31 17:08:19 INFO  Browser driver is initialize
+2021-10-31 17:08:19 INFO  Browser driver is initialize
+2021-11-08 15:01:11 INFO  Browser driver is initialize
+2021-11-08 15:01:11 INFO  Browser driver is initialize
+2021-11-08 15:02:55 INFO  Browser driver is initialize
+2021-11-08 15:02:58 INFO  URL is invoked
+2021-11-08 15:02:58 INFO  Login Done!
+2021-11-08 15:03:03 INFO  Close driver and made it null
+2021-11-08 15:03:05 INFO  Browser driver is initialize
+2021-11-08 15:03:06 INFO  URL is invoked
+2021-11-08 15:03:07 INFO  Login Done!
+2021-11-08 15:03:11 INFO  Close driver and made it null
+2021-11-08 15:03:13 INFO  Browser driver is initialize
+2021-11-08 15:03:14 INFO  URL is invoked
+2021-11-08 15:03:14 INFO  Banner is displaying
+2021-11-08 15:03:14 INFO  Button is present
+2021-11-08 15:03:15 INFO  Clicked on Shop Men
+2021-11-08 15:03:16 INFO  Driver closed and made null
