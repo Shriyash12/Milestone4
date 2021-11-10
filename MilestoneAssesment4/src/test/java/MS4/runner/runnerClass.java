@@ -6,7 +6,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = "src/test/java/MS4/feature", glue = "MS4.stepDefination")
+@CucumberOptions(features = "src/test/java/MS4/feature", glue = { "MS4.stepDefinition" })
 public class runnerClass {
 
 }

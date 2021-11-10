@@ -34,7 +34,7 @@ public class BaseClass {
 		try {
 			prop = new Properties();
 			FileInputStream fis = new FileInputStream(
-					"C:\\Users\\M1073173\\SeleniumStuff\\MilestoneAssesment4\\src\\resources\\prop.properties");
+					"C:\\Users\\M1073173\\git\\repository\\MilestoneAssesment4\\src\\resources\\prop.properties");
 
 			prop.load(fis);
 			String browserName = prop.getProperty("browser");
